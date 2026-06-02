@@ -16,7 +16,7 @@ from skimage.metrics import peak_signal_noise_ratio # Untuk menghitung PSNR
 # ==============================================================================
 
 # Membaca citra Rontgen (Ganti nama file ini saat demo: misal 'tangan_1.jpg')
-image_path = 'Tangan_2.png' 
+image_path = 'gigi_2.jpg' 
 img = cv2.imread(image_path)
 
 if img is None:
