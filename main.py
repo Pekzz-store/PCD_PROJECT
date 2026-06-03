@@ -1,8 +1,3 @@
-# ==============================================================================
-# PROJECT AKHIR PENGOLAHAN CITRA DIGITAL - KELOMPOK 5
-# Analisis Edge Detection pada Citra Rontgen (Sobel vs Prewitt)
-# ==============================================================================
-
 # 1. IMPORT PUSTAKA (LIBRARY) YANG DIBUTUHKAN
 import cv2                                     # Untuk pemrosesan citra dasar (OpenCV)
 import numpy as np                             # Untuk manipulasi matriks angka
